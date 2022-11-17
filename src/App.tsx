@@ -12,7 +12,7 @@ const App = () => {
    */
 
   const baseUrl =
-    'https://cryptopanic.com/api/v1/posts/?auth_token=3d5ecc4d751a1e41c7806abb343aafeb1b097079&filter=rising';
+    'https://cryptopanic.com/api/v1/posts/?auth_token=MY_AUTH_TOKEN&filter=rising';
 
   useEffect(() => {
     // axios
