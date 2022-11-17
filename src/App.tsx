@@ -37,6 +37,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Data kindly provided by:</p>
         <img src={cryptopanic} alt="logo" />
         <p>News:</p>
         <p>{url}</p>
